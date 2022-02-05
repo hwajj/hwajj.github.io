@@ -1,8 +1,0 @@
----
-layout: post
-title: "다 까먹었다"
-date: 2021-07-08
-categories: 사설
----
-다 까먹었다 
-1도 모르겠다
